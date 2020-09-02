@@ -1,0 +1,42 @@
+body {
+    height: 100vh;
+    padding: 0;
+  }
+#left_panel{
+    min-height: 100%;
+}
+#middle_panel{
+    min-height: 100%;
+    border-left: 1px solid #dddddd;
+    border-right: 1px solid #dddddd;
+}
+#right_panel{
+    min-height: 100%;
+}
+.left_rows{
+    width: 100%;
+}
+#name{
+    font-weight: bold;
+}
+#user_data_div{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.tab_img{
+    width: 30px;
+    height: 30px;
+}
+.tab_name{
+    margin-left: 10px;
+    font-size: large;
+}
+.left_row_inline{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5%;
+}
+#medicine_tab{
+    background-color: #ddffdd;
+}
